@@ -1,0 +1,19 @@
+{
+    "groupmessages" :"/GroupMessages",
+    "messages_data" :"/userMessagesImagesandVideos",
+    "group_post_images" :"/posts/grouppostimagesorvideos",
+    "histories" :"/Histories",
+    "pages_post_images" :"/posts/pagepostimagesorvideos",
+    "post_images" :"/posts/postimagesorvideos",
+    "personal_emotes" :"/PersoanlEmotes",
+    "profile_picsUser" :"/usersProfilePics",
+    "profile_picsgroupChat" :"/groupchatProfilePics",
+    "profile_picsPage" :"/PageProfilePics",
+    "profile_picsGroup" :"/GroupProfilePics",
+    "profile_picsEvent" :"/EventProfilePics",
+    "profile_picsHistorygroup" :"/historygroup",
+    "wall_papersUser" :"/usersWallPaper",
+    "wall_papersPage" :"/pageWallPaper",
+    "wall_papersEvent" :"/EventWallPaper",
+    "wall_papersGroup" :"/groupsWallPaper"
+}

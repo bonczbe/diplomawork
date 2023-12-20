@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "sources": [
+        "app.scss",
+        "app.css"
+    ],
+    "names": [],
+    "mappings": "AACQ,6DAAA;AACR,cAAA;AACA,oBAAA;AACA,mBAAA;AAGA;EACI,UAAA;ACFJ",
+    "file": "app.css"
+}
